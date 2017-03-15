@@ -1,0 +1,11 @@
+C:\Users\Patrick\AppData\Local\Temporary Projects\GiveAMouseACookie\bin\Debug\GiveAMouseACookie.exe.config
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\GiveAMouseACookie\GiveAMouseACookie\bin\Debug\GiveAMouseACookie.exe.config
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\GiveAMouseACookie\GiveAMouseACookie\obj\Debug\GiveAMouseACookie.GiveAMouseACookie.resources
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\GiveAMouseACookie\GiveAMouseACookie\obj\Debug\GiveAMouseACookie.Resources.resources
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\GiveAMouseACookie\GiveAMouseACookie\obj\Debug\GiveAMouseACookie.vbproj.GenerateResource.Cache
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\GiveAMouseACookie\GiveAMouseACookie\bin\Debug\GiveAMouseACookie.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\GiveAMouseACookie\GiveAMouseACookie\bin\Debug\GiveAMouseACookie.pdb
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\GiveAMouseACookie\GiveAMouseACookie\bin\Debug\GiveAMouseACookie.xml
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\GiveAMouseACookie\GiveAMouseACookie\obj\Debug\GiveAMouseACookie.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\GiveAMouseACookie\GiveAMouseACookie\obj\Debug\GiveAMouseACookie.xml
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\GiveAMouseACookie\GiveAMouseACookie\obj\Debug\GiveAMouseACookie.pdb

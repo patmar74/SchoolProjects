@@ -1,0 +1,11 @@
+C:\Users\Patrick\AppData\Local\Temporary Projects\SimpleBanking\bin\Debug\SimpleBanking.exe.config
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\SimpleBanking\SimpleBanking\bin\Debug\SimpleBanking.exe.config
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\SimpleBanking\SimpleBanking\bin\Debug\SimpleBanking.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\SimpleBanking\SimpleBanking\bin\Debug\SimpleBanking.pdb
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\SimpleBanking\SimpleBanking\bin\Debug\SimpleBanking.xml
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\SimpleBanking\SimpleBanking\obj\Debug\SimpleBanking.Resources.resources
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\SimpleBanking\SimpleBanking\obj\Debug\SimpleBanking.SimpleBanking.resources
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\SimpleBanking\SimpleBanking\obj\Debug\SimpleBanking.vbproj.GenerateResource.Cache
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\SimpleBanking\SimpleBanking\obj\Debug\SimpleBanking.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\SimpleBanking\SimpleBanking\obj\Debug\SimpleBanking.xml
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\SimpleBanking\SimpleBanking\obj\Debug\SimpleBanking.pdb

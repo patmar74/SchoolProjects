@@ -1,0 +1,11 @@
+C:\Users\martinp54182\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe.config
+d:\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+d:\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+d:\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+d:\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+d:\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.HelloWorld.resources
+d:\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+d:\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+d:\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+d:\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
